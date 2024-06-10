@@ -1,5 +1,4 @@
 
-#include "../header/tic_tac_toe.h"
 #include "../header/class.h"
 
 //! player et tt ces fonction qui vont avec

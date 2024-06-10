@@ -4,7 +4,6 @@
     ** by: Marin
 */
 
-#include "../header/tic_tac_toe.h"
 #include "../header/class.h"
 
 int error_mess(int argc, char **argv)

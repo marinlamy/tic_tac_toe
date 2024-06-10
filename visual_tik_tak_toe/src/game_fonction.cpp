@@ -1,5 +1,4 @@
 
-#include "../header/tic_tac_toe.h"
 #include "../header/class.h"
 
 Game::Game() : window(sf::VideoMode(600, 700), "SFML window") {
